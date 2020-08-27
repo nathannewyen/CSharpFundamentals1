@@ -1,0 +1,12 @@
+/Users/nhannguyen/Desktop/fundamentals/bin/Debug/netcoreapp3.1/fundamentals.deps.json
+/Users/nhannguyen/Desktop/fundamentals/bin/Debug/netcoreapp3.1/fundamentals.runtimeconfig.json
+/Users/nhannguyen/Desktop/fundamentals/bin/Debug/netcoreapp3.1/fundamentals.runtimeconfig.dev.json
+/Users/nhannguyen/Desktop/fundamentals/bin/Debug/netcoreapp3.1/fundamentals.dll
+/Users/nhannguyen/Desktop/fundamentals/bin/Debug/netcoreapp3.1/fundamentals.pdb
+/Users/nhannguyen/Desktop/fundamentals/obj/Debug/netcoreapp3.1/fundamentals.csprojAssemblyReference.cache
+/Users/nhannguyen/Desktop/fundamentals/obj/Debug/netcoreapp3.1/fundamentals.AssemblyInfoInputs.cache
+/Users/nhannguyen/Desktop/fundamentals/obj/Debug/netcoreapp3.1/fundamentals.AssemblyInfo.cs
+/Users/nhannguyen/Desktop/fundamentals/obj/Debug/netcoreapp3.1/fundamentals.csproj.CoreCompileInputs.cache
+/Users/nhannguyen/Desktop/fundamentals/obj/Debug/netcoreapp3.1/fundamentals.dll
+/Users/nhannguyen/Desktop/fundamentals/obj/Debug/netcoreapp3.1/fundamentals.pdb
+/Users/nhannguyen/Desktop/fundamentals/obj/Debug/netcoreapp3.1/fundamentals.genruntimeconfig.cache
